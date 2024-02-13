@@ -1,0 +1,28 @@
+_repo: Port-Sunlight_72812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davison, T. Raffles
+    gutenberg_agent_id: '56817'
+    url: http://www.gutenberg.org/2009/agents/56817
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72812'
+language: en
+pgterms:marc904: https://archive.org/details/portsunlightreco00davirich
+pgterms:marc905: 20230830104540davison
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bB. T. Batsford Ltd, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Port Sunlight
+url: http://www.gutenberg.org/ebooks/72812
