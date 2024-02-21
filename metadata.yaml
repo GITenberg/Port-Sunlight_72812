@@ -1,11 +1,16 @@
 _repo: Port-Sunlight_72812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72812-h/images/cover.jpg
 creator:
   author:
     agent_name: Davison, T. Raffles
     gutenberg_agent_id: '56817'
     url: http://www.gutenberg.org/2009/agents/56817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72812#Port-Sunlight
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
